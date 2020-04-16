@@ -17,4 +17,7 @@ Run the class there are examples of
 
 I will add more in the future
 
-// TODO update the Streams version to 2.5.x (change in the streamsBuilder class is quite nice) 
+// TODO update the Streams version to 2.5.x (change in the streamsBuilder class is quite nice)
+
+if you want to use a remote cluster add the config into the bootstrap servers in the StreamRuntime class.
+ 
