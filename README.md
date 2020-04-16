@@ -4,6 +4,9 @@ Running the following to create the topics
 
 `
 bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 2 --topic view --config message.timestamp.type=CreateTime
+`
+
+`
 bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 2 --topic click --config message.timestamp.type=CreateTime
 `
 
