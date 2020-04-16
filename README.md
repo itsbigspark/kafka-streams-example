@@ -12,8 +12,8 @@ bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-fac
 
 Run the class there are examples of
 
-InnerJoin
-InnerWindowedJoinStream
+* InnerJoin
+* InnerWindowedJoinStream
 
 I will add more in the future
 
